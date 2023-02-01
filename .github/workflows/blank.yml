@@ -35,7 +35,4 @@ jobs:
         # https://github.com/actions/setup-node
         uses: actions/setup-node@v3
         # The Node.js version to configure
-        with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
       - run: make say-hello
