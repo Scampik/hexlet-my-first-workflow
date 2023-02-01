@@ -1,0 +1,19 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "![example workflow](https://github.com/Scampik/hexlet-my-first-workflow/actions/workflows/main.yml/badge.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scampik/hexlet-my-first-workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scampik/hexlet-my-first-workflow/issues"
+  },
+  "homepage": "https://github.com/Scampik/hexlet-my-first-workflow#readme"
+}
