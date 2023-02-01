@@ -1,3 +1,3 @@
 # hexlet-my-first-workflow
-![Action] https://github.com/Scampik/hexlet-my-first-workflow/actions/workflows/blank.yml/badge.svg
+[![Actions Status](https://github.com/Scampik/hexlet-my-first-workflow/workflows/blank/badge.svg)](https://github.com/Scampik/hexlet-my-first-workflow/actions)
 
